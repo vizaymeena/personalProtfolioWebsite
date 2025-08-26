@@ -1,0 +1,9 @@
+.list{
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+}
+.list .Links{
+    text-decoration: none;
+}
